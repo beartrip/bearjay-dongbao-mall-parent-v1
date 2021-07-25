@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bearjay-dongbao-sms-api" />
+        <module name="bearjay-dongbao-cart" />
+        <module name="bearjay-dongbao-pay" />
+        <module name="bearjay-dongbao-service" />
+        <module name="bearjay-dongbao-cms" />
+        <module name="bearjay-dongbao-common-util" />
+        <module name="bearjay-dongbao-oms-api" />
+        <module name="bearjay-dongbao-dictionary" />
+        <module name="bearjay-dongbao-pms-api" />
+        <module name="bearjay-dongbao-portal-web" />
+        <module name="bearjay-dongbao-cms-api" />
+        <module name="bearjay-dongbao-ums" />
+        <module name="bearjay-dongbao-common-base" />
+        <module name="bearjay-dongbao-sms" />
+        <module name="bearjay-dongbao-pay-api" />
+        <module name="bearjay-dongbao-pms" />
+        <module name="bearjay-dongbao-manager-web" />
+        <module name="bearjay-dongbao-generator" />
+        <module name="bearjay-dongbao-ums-api" />
+        <module name="bearjay-dongbao-oms" />
+        <module name="bearjay-dongbao-cart-api" />
+        <module name="bearjay-dongbao-dictionary-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bearjay-dongbao-api" options="-parameters" />
+      <module name="bearjay-dongbao-application" options="-parameters" />
+      <module name="bearjay-dongbao-cart" options="-parameters" />
+      <module name="bearjay-dongbao-cart-api" options="-parameters" />
+      <module name="bearjay-dongbao-cms" options="-parameters" />
+      <module name="bearjay-dongbao-cms-api" options="-parameters" />
+      <module name="bearjay-dongbao-common-base" options="-parameters" />
+      <module name="bearjay-dongbao-common-util" options="-parameters" />
+      <module name="bearjay-dongbao-dictionary" options="-parameters" />
+      <module name="bearjay-dongbao-dictionary-api" options="-parameters" />
+      <module name="bearjay-dongbao-generator" options="-parameters" />
+      <module name="bearjay-dongbao-manager-web" options="-parameters" />
+      <module name="bearjay-dongbao-oms" options="-parameters" />
+      <module name="bearjay-dongbao-oms-api" options="-parameters" />
+      <module name="bearjay-dongbao-pay" options="-parameters" />
+      <module name="bearjay-dongbao-pay-api" options="-parameters" />
+      <module name="bearjay-dongbao-pms" options="-parameters" />
+      <module name="bearjay-dongbao-pms-api" options="-parameters" />
+      <module name="bearjay-dongbao-portal-web" options="-parameters" />
+      <module name="bearjay-dongbao-service" options="-parameters" />
+      <module name="bearjay-dongbao-sms" options="-parameters" />
+      <module name="bearjay-dongbao-sms-api" options="-parameters" />
+      <module name="bearjay-dongbao-ums" options="-parameters" />
+      <module name="bearjay-dongbao-ums-api" options="-parameters" />
+    </option>
+  </component>
+</project>

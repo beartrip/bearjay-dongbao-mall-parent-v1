@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-api/bearjay-dongbao-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-application/bearjay-dongbao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-application/bearjay-dongbao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-common/bearjay-dongbao-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-common/bearjay-dongbao-common-base/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/bearjay-dongbao-service/bearjay-dongbao-ums/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
